@@ -50,7 +50,7 @@ h1, h2 {
 img {
     width: 100px;
     height: 50px;
-    margin: 20px;
+    margin: 50px;
 }
 
 footer {
@@ -98,5 +98,5 @@ body {
         }
         img {
             margin-right: 20px;
-            width: 20;
+            width: 50;
             height: 20px;
